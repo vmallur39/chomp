@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/ic_help"
+        android:title="@string/menu_help"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/restart"
+        android:icon="@drawable/ic_restart"
+        android:title="@string/menu_restart"
+        android:enabled="false"
+        app:showAsAction="ifRoom" />
+</menu>

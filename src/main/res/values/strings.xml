@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chomp</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="game_over">Game Over</string>
+    <string name="ok">OK</string>
+    <string name="turn">YOUR TURN</string>
+
+    <string name="help_title">How to play</string>
+    <string name="help_message">Chomp is a two-player game in which players take turns removing squares from a chocolate bar.\n\nClicking on a square removes that square and the ones to its right, along with all squares that are below them.\n\nA player loses when they have no squares left to chomp on.</string>
+
+    <string name="menu_help">Help</string>
+    <string name="menu_restart">Restart</string>
+
+    <string name="message_win">Congratulations, you win!</string>
+    <string name="message_loss">Better luck next time!</string>
+</resources>
